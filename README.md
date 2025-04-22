@@ -1,7 +1,15 @@
-# 📚 Invisible Prompt Injection 教育リポジトリ
+# <p align="center">
+#   <img src="assets/header.svg" alt="Invisible Prompt Injection" />
+# </p>
+
+<h1 align="center">📚 Invisible Prompt Injection 教育リポジトリ</h1>
 
 <p align="center">
-  <img src="assets/header.svg" alt="Invisible Prompt Injection" />
+  <img src="https://img.shields.io/badge/Marp-%40marp--team%2Fmarp--cli-blue.svg?logo=npm" alt="Marp CLI" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow.svg?logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%3E%3D5-orange.svg?logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%3E%3D3-blue.svg?logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3.8-blue.svg?logo=python" alt="Python" />
 </p>
 
 ## 🎯 目的
