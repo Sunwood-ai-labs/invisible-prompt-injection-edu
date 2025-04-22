@@ -16,9 +16,9 @@
 このリポジトリは、LLMに対する「見えないプロンプトインジェクション」の手法を学ぶための教育用サンプルを提供します。
 
 ## 📝 内容
-- Marp形式のスライド：`slides/invisible_prompt_injection_demo.md`
-- デモ資料（JavaScriptやHTML）：後ほど追加予定
-- 対策・防御方法のコード例
+- Marp形式のスライド
+  - [Invisible Prompt Injection 実演例](slides/README.md)
+  - [猫猫カンパニー 2024年第1四半期決算報告](slides/nekompany_financial_report.md)
 
 ## 🚀 使い方
 1. Marp CLIをインストール
@@ -27,7 +27,7 @@
    ```
 2. スライドをPDFに変換
    ```bash
-   marp slides/invisible_prompt_injection_demo.md --pdf
+   marp slides/*.md --pdf
    ```
 
 ## 📚 参考資料
