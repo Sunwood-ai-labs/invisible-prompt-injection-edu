@@ -1,6 +1,6 @@
-# <p align="center">
-#   <img src="assets/header.svg" alt="Invisible Prompt Injection" />
-# </p>
+<p align="center">
+  <img src="assets/header.svg" alt="Invisible Prompt Injection" />
+</p>
 
 <h1 align="center">📚 Invisible Prompt Injection 教育リポジトリ</h1>
 
